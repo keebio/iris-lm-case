@@ -11,6 +11,10 @@ Files will mainly be provided in a format closely related to the design, so for 
 
 ### Printable Tray Case
 
+![](images/IMG_3803.jpg)
+
+![](images/IMG_3804.jpg)
+
 In the [`printable`](printable/) folder, there are STL files for you to print out a case similar to the aluminum case design. The switch plates have been made to be thick enough while also having notches on the underside for the Choc switches to clip into the plate.
 
 In addition to printing the files, you will need the following parts:
